@@ -22,7 +22,6 @@
 <img width="45" height="45" src="https://img.icons8.com/color/45/dart.png"/> 
 <img width="45" height="45" src="https://img.icons8.com/fluency/45/flutter.png"/> 
 <img width="45" height="45" src="https://img.icons8.com/color/45/python--v1.png"/> 
-<img width="45" height="45" src="https://img.icons8.com/color/35/000000/python.png">
 <img width="45" height="45" src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
 <img width="45" height="45" src="https://img.icons8.com/color/35/000000/git.png"/> 
 <img width="45" height="45" src="https://img.icons8.com/color/35/000000/github.png"/> 
