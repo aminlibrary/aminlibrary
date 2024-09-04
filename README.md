@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**aminlibrary/aminlibrary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***I am a passionate software developer. I like to be a part of minds that contribute to society. Open source participation and community development and science and nature are my biggest interests!***
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Dart ( Flutter Framework ).
+- 🌱 I’m currently learning Python.
+- 👯 I’m looking to collaborate with other Developers.
+- 💬 Ask me about anything in tech I bet I will answer.
+- ⚡ Fun fact: I love Mathemathics, Cooking, Sport, and Traveling.
+- 🎸 Would love: To know how to play Piano.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+<p align="left">  
+<a href="https://t.me/iAmin_com" target="blank"><img width= 45 height= 45 src="https://img.icons8.com/color/48/telegram-app--v1.png"/></a>
+<a href="mailto:helloamin.com@gmail.com" target="blank"><img width= 45 height=45 src="https://img.icons8.com/color/480/gmail-new.png"/></a>
+</p>
+
+### Languages and Tools:
+
+<p>
+<img width="45" height="45" src="https://img.icons8.com/color/45/dart.png"/> 
+<img width="45" height="45" src="https://img.icons8.com/fluency/45/flutter.png"/> 
+<img width="45" height="45" src="https://img.icons8.com/color/45/python--v1.png"/> 
+<img width="45" height="45" src="https://img.icons8.com/color/35/000000/python.png">
+<img width="45" height="45" src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
+<img width="45" height="45" src="https://img.icons8.com/color/35/000000/git.png"/> 
+<img width="45" height="45" src="https://img.icons8.com/color/35/000000/github.png"/> 
+</p>
