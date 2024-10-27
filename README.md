@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/cd0c303b-23ce-4b24-adbb-59ba8d3423ae"/> 
+
 ## Hi there 👋
 
 ***I am a passionate software developer. I like to be a part of minds that contribute to society. Open source participation and community development and science and nature are my biggest interests!***
